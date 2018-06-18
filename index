@@ -2,13 +2,14 @@
 <html>
 <head>
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  
 </head>
 <body>
   <h1>
-    Enter Your Name Here
+    Average Joe
   </h1>
   <h2>
-    Enter Your Job Title Here
+    Web Designer
   </h2>
   <h4>
     Bio:
@@ -17,7 +18,10 @@
     </h4>
 <h3>Past Experience</h3>
    <h4>
-    Current Role:
+     Current Role: Freelance Designer</h4>
+    <h4>Description: <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+     </span>
+     <br>
      <br>
     From:   
      <br>
@@ -31,5 +35,12 @@
     To:
     </h4>
 <h3>Other Profiles</h3>
+<footer>
+  <ul>
+    <li><a target="_blank" href="#">Linkedin</li>
+    <li><a target="_blank" href="#">Github</li></a>
+    <li><a target="_blank" href="#">freeCodeCamp</li></a>
+  </ul>
+  </footer>
 </body>
 </html>
